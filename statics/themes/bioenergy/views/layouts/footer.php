@@ -66,7 +66,7 @@ use source\LuLu;
                                 </div>
                                 <div>
                                     <div id="footer-text" class="footer-text">
-                                        <a href="<?php echo $this->getHomeUrl()?>" class="site-name">LuLu CMS</a> 2015 | Privacy Policy
+                                        <a href="<?php echo $this->getHomeUrl()?>" class="site-name">okwen</a> 2016- | Privacy Policy
                                     </div>
                                 </div>
                                 <div class="social-nets-wrapper">

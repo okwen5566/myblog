@@ -17,7 +17,7 @@ use source\LuLu;
             </ul>
             </div>
             <?php $this->showConfigValue('sys_icp');?>
-            Copyright ©2015 yiifans
+            Copyright ©2016- okwen
         </div>
     <!--end: footer -->
     </div>

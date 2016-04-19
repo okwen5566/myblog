@@ -120,8 +120,9 @@ $rbacService = LuLu::getService('rbac');
                             <div id="da-logo-wrap">
                                 <div id="da-logo">
                                     <div id="da-logo-img">
-                                        <a href="<?php echo LuLu::getAlias('@web').'/admin.php';?>">
-                                            <img src="<?php echo Resource::getAdminUrl()?>/images/logo.png" alt="Dandelion Admin" />
+                                        <a href="<?php echo LuLu::getAlias('@web').'/admin.php';?>" style="text-decoration: none;">
+                                            <!-- <img src="<?php echo Resource::getAdminUrl()?>/images/logo.png" alt="Dandelion Admin" /> -->
+                                            <front style="font-size:26px;color:#fff;">okwen博客后台</front>
                                         </a>
                                     </div>
                                 </div>
@@ -223,7 +224,8 @@ $rbacService = LuLu::getService('rbac');
                 <div id="da-footer">
                     <div class="da-container clearfix">
                         <p>
-                        Copyright 2012. LuLu CMS Admin. All Rights Reserved.</p>
+                       		 Copyright ©2016- okwen 保留一切权利 
+                        </p>
                     </div>
                 </div>
             </td>

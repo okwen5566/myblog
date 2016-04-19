@@ -10,7 +10,7 @@ use source\LuLu;
     <footer class="footer">
         <div class="footer-inner">
             <div class="copyright pull-left">
-                <a href="<?php echo $this->getHomeUrl()?>" >LuLu CMS</a> 保留一切权利 ·   © 2011-2015
+               Copyright ©2016- okwen 保留一切权利 
             </div>
             <div class="trackcode pull-right">
               

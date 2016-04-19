@@ -241,7 +241,7 @@ $rbacService = LuLu::getService('rbac');
         <div id="da-footer">
             <div class="da-container clearfix">
                 <p>
-                Copyright 2012. LuLu CMS Admin. All Rights Reserved.
+                Copyright ©2016- okwen 保留一切权利 
             </div>
         </div>
 

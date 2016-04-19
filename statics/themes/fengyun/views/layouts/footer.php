@@ -23,7 +23,7 @@ use source\LuLu;
             <div class="row">
                 <div class="clear"></div>
                 <div class="col-sm-6 site-info" style="padding-top: 15px;">
-                    Copyright &copy; 2012-2015 LuLu CMS&nbsp;&nbsp;保留所有权利.
+                    Copyright ©2016- okwen  &nbsp;&nbsp;保留所有权利.
 					&nbsp;&nbsp;
                     
                     <br>
